@@ -1,0 +1,11 @@
+{
+    "id": "obsidian-text-alignment-custom-plugin",
+    "name": "Text Alignment Custom Plugin",
+    "version": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "description": "A simple Obsidian plugin that aligns text",
+    "author": "varun",
+    "authorUrl": "https://github.com/varun77x/",
+    "isDesktopOnly": false
+  }
+  
